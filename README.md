@@ -13,14 +13,4 @@ A simple tool built with images matching so you can build your simple bot that d
 +Configuration-Driven**: Zero hardcoded paths. All asset locations, thresholds, and platform hierarchies are managed via a centralized configuration file.
 +Multi-Platform Ready**: Designed to support various launchers (Roblox, Steam, etc.) through a hierarchical dispatcher.
 
-**Project Structure
-
-APTFLG-V1/
-├── main.py                 
-├── config.py               
-├── core_functions/
-    ├── vision.py           
-    └── actions.py          
-├── task_functions/
-    └── MTD_Daily.py        
-└── targets/                
+**Note: you can find core functions in `core_functions` folder               
