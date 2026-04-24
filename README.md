@@ -1,6 +1,7 @@
 **APTFLG-V1 (All Purpose Tool For Lazy Gamers)
 
 A simple tool built with images matching so you can build your simple bot that do simple tasks for you.
+Currently, it supports the game called "Merge Tower Defense" in "Roblox", it will automatically open Roblox, join the game for you and claim the daily collectibles (Mining, Ranked prize via mail).
 
 **Key Features
 
@@ -13,4 +14,6 @@ A simple tool built with images matching so you can build your simple bot that d
 +Configuration-Driven**: Zero hardcoded paths. All asset locations, thresholds, and platform hierarchies are managed via a centralized configuration file.
 +Multi-Platform Ready**: Designed to support various launchers (Roblox, Steam, etc.) through a hierarchical dispatcher.
 
-**Note: you can find core functions in `core_functions` folder               
+**Known issue: It is still pretty slow, but I will fix it soon if I have time, you should always run roblox in full-screen mode to ensure best result, of course it supports different sized windows, but I cannot guarantee the bot will run if the window is too small or too large.
+
+EXPECT UPDATES :)!
