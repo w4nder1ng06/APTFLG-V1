@@ -1,6 +1,6 @@
 **APTFLG-V1 (All Purpose Tool For Lazy Gamers)
 
-A high-performance, modular automation framework designed for game task automation. Built with a focus on computer vision reliability and anti-cheat resilience, APTFLG-V1 allows for seamless scaling across different games and platforms.
+A simple tool built with images matching so you can build your simple bot that do simple tasks for you.
 
 **Key Features
 
