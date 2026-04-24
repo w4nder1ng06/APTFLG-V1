@@ -4,6 +4,15 @@ import os
 import config
 from core_functions.actions import wait_and_click, scroll_n_find, human_click
 from task_functions.MTD_Daily import daily
+import ctypes
+
+try:
+    ctypes.windll.shcore.SetProcessDpiAwareness(1)
+except Exception:
+    try:
+        ctypes.windll.user32.SetProcessDPIAware()
+    except Exception:
+        pass
 
 
 def quit_script():
